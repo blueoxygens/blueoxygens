@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 <b>참여 프로젝트</b><br>
-<a href="https://github.com/pirogramming-project/JisungPark">주차장 잔여석 실시간 제공 서비스 : 지성 park</a>
+<a href="https://github.com/pirogramming-project/JisungPark">주차장 잔여석 실시간 제공 서비스 : 지성 park(Backend -> 로그인, q&a, 실시간 데이터 매칭)</a>
 
 <!--
 **blueoxygens/blueoxygens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
