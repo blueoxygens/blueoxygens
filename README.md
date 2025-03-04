@@ -19,7 +19,6 @@
 <ul>
   <li>Frontend</li>
   <article>
-    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </article>
   <li>Backend</li>
