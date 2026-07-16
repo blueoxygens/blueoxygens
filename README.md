@@ -76,10 +76,3 @@
 </p>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=blueoxygens&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueoxygens&layout=compact&theme=transparent" height="150"/>
-</p>
