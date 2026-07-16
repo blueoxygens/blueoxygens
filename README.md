@@ -9,9 +9,8 @@
 | 2026.07 ~ | 2026 오픈소스 컨트리뷰션 아카데미(참여형) - RustPython |
 | 2026.07 ~ | SSAFY 16기 |
 | 2026.04 ~ 2026.06 | 2026 오픈소스 컨트리뷰션 아카데미(체험형) - <a href="https://github.com/eGovFramework/egovframe-vscode-initializr/pull/5">eGovFramework VSCode Initializr 기여</a> |
-| 2025.07 ~ 2025.12 | 우리 FIS Academy 클라우드 서비스 개발 |
-| 2025.03 ~ 2025.08 | Pirogramming 23기 운영진 |
-| 2024.12 ~ 2025.02 | Pirogramming 22기 |
+| 2025.07 ~ 2025.12 | 우리 FIS Academy 클라우드 서비스 개발 과정 이수 |
+| 2024.12 ~ 2025.08 | Pirogramming 22기 & Pirogramming 23기 운영진 |
 | 2024.09 | 충청남도 AI Career School 이수 |
 | 2024.03 ~ 2024.12 | 단국대학교 CAGI 컴퓨터 그래픽 동아리 부회장 |
 | 2024.01 | Gangwon 2024 Youth Olympic Games NTO (전산/어학) |
