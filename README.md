@@ -6,7 +6,6 @@
 
 | 기간 | 내용 |
 | :--- | :--- |
-| 2026.07 ~ | 2026 오픈소스 컨트리뷰션 아카데미(참여형) - RustPython |
 | 2026.07 ~ | SSAFY 16기 |
 | 2026.04 ~ 2026.06 | 2026 오픈소스 컨트리뷰션 아카데미(체험형) - <a href="https://github.com/eGovFramework/egovframe-vscode-initializr/pull/5">eGovFramework VSCode Initializr 기여</a> |
 | 2025.07 ~ 2025.12 | 우리 FIS Academy 클라우드 서비스 개발 과정 이수 |
